@@ -13,15 +13,7 @@ Une application web simple mais fonctionnelle pour aider les utilisateurs à sui
 5.  [Installation et Lancement](#installation-et-lancement)
 6.  [Structure du Projet](#structure-du-projet)
 7.  [Utilisation de l'Application](#utilisation-de-lapplication)
-8.  [Détails Techniques Clés](#détails-techniques-clés)
-    *   [Interfaces TypeScript](#interfaces-typescript)
-    *   [Enums pour les Catégories](#enums-pour-les-catégories)
-    *   [Gestion des Événements DOM](#gestion-des-événements-dom)
-    *   [Logique de Tri et Filtrage](#logique-de-tri-et-filtrage)
-    *   [Affichage Dynamique](#affichage-dynamique)
-    *   [Persistance des Données (localStorage)](#persistance-des-données-localstorage)
-9.  [Captures d'écran](#captures-décran)
-10. [Améliorations Possibles](#améliorations-possibles)
+
 
 ## Aperçu
 
@@ -70,8 +62,7 @@ Suivez ces étapes pour mettre en place et lancer l'application sur votre machin
 1.  **Cloner le dépôt (ou télécharger les fichiers) :**
     Si vous avez Git installé, clonez le dépôt :
     ```bash
-    git clone <URL_DU_DEPOT_DE_CE_PROJET>
-    cd <NOM_DU_DOSSIER_PROJET>
+    git clone 
     ```
     Sinon, téléchargez les fichiers du projet (`index.html`, `style.css`, `tsconfig.json` et le dossier `src` contenant `app.ts`) et placez-les dans un dossier sur votre ordinateur.
 
